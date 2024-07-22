@@ -27,7 +27,8 @@ I have 2+ years of experience as a UX Researcher and Designer, and I'm always lo
 
 <a href="http://www.github.com/csqsami"><img src="https://github-readme-streak-stats.herokuapp.com/?user=csqsami&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/csqsami"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=csqsami&amp;bg_color=1c1917&amp;color=ffffff&amp;line=0891b2&amp;point=ffffff&amp;area_color=1c1917&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/csqsami"><img src="https://github-readme-stats.vercel.app/api?username=csqsami&show_icons=true&theme=radical" alt="GitHub Commits Graph" /></a>
+
 
 ### On-going activities
 👩‍💻 I'm currently working on [Harmony AI tool] (https://github.com/harmonydata/hackathon)
