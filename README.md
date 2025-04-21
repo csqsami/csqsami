@@ -9,7 +9,7 @@ I have 3 years of professional experience as a UX Researcher and Designer, and I
 * 🌍  I'm based in Kuala Lumpur, Malaysia with global experience in London and Singapore
 * 👩‍🎓 My background is in Human Computer Interaction (HCI) and Architecture
 
-### On-going activities
+### Projects
 * 👩‍💻 I have worked on [Harmony AI tool](https://github.com/harmonydata/hackathon), [NLP dashboard](http://dashboard.fastdatascience.com/) and [Clinical trial risk tool](https://clinical.fastdatascience.com/dashboard)
 * 🧠 I'm currently learning Python and SQL
 
