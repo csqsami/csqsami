@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UX Researcher &  Designer
 --------------------------
 
-I have 2+ years of experience as a UX Researcher and Designer, and I'm always looking to learn and help out in the community. I also have experience in HTML, CSS, Javascript, Java.
+I have 3 years of professional experience as a UX Researcher and Designer, and I'm always looking to learn and help out in the community. I also have experience in HTML, CSS, Javascript, Java.
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia with global experience in London and Singapore
 * 👩‍🎓 My background is in Human Computer Interaction (HCI) and Architecture
