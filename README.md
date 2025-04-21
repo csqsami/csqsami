@@ -31,6 +31,6 @@ I have 2+ years of experience as a UX Researcher and Designer, and I'm always lo
 
 
 ### On-going activities
-*👩‍💻 I have worked on [Harmony AI tool](https://github.com/harmonydata/hackathon), [NLP dashboard](http://dashboard.fastdatascience.com/) and [Clinical trial risk tool](https://clinical.fastdatascience.com/dashboard)
-*🧠 I'm currently learning Python
+* 👩‍💻 I have worked on [Harmony AI tool](https://github.com/harmonydata/hackathon), [NLP dashboard](http://dashboard.fastdatascience.com/) and [Clinical trial risk tool](https://clinical.fastdatascience.com/dashboard)
+* 🧠 I'm currently learning Python and SQL
 
