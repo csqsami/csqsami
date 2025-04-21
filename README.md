@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suqin Chua
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suqin
 ==================================================================================================================================
 
-UX Researcher and Designer
+UX Researcher &  Designer
 --------------------------
 
 I have 2+ years of experience as a UX Researcher and Designer, and I'm always looking to learn and help out in the community. I also have experience in HTML, CSS, Javascript, Java.
 
-* 🌍  I'm based in London, UK
-* 🤝  I'm open to collaborating on open source projects
+* 🌍  I'm based in Kuala Lumpur, Malaysia with experience in London, UK and Singapore
 
 ### Skills
 
@@ -31,7 +30,6 @@ I have 2+ years of experience as a UX Researcher and Designer, and I'm always lo
 
 
 ### On-going activities
-👩‍💻 I'm currently working on [Harmony AI tool] (https://github.com/harmonydata/hackathon)
-
+👩‍💻 I have worked on [Harmony AI tool] (https://github.com/harmonydata/hackathon), [NLP dashboard] (http://dashboard.fastdatascience.com/) and [Clinical trial risk tool] (https://clinical.fastdatascience.com/dashboard)
 🧠 I'm currently learning Python
 
